@@ -2,7 +2,7 @@
  
 My first repository on Github
 
-I love ☕ 🍕, and 💃.
+I love ☕.
 
 <div id="u995-329" class="clearfix colelem">
 <h2 style="text-align: center;">Publications</h2>
