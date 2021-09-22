@@ -1,4 +1,4 @@
-# edmilson_roque_santos
+# Edmilson Roque dos Santos
  
 My first repository on Github
 
@@ -12,7 +12,9 @@ I love ☕.
 Jaap Eldering, Jeroen S.W. Lamb, Tiago Pereira, Edmison Roque dos Santos
 Nonlinearity 34 5344 (2021)
  
+<br>
+<br>
 
- <strong><a class="nonblock" href="https://www.sciencedirect.com/science/article/abs/pii/S0167278921000531?via%3Dihub">Recovering sparse networks: Basis adaptation and stability under extensions</a>
+<strong><a class="nonblock" href="https://www.sciencedirect.com/science/article/abs/pii/S0167278921000531?via%3Dihub">Recovering sparse networks: Basis adaptation and stability under extensions</a>
 </strong>Marcel Novaes, Edmilson Roque dos Santos, Tiago Pereira
 Physica D: Nonlinear Phenomena 424, 132895 (2021)
