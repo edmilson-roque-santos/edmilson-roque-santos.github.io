@@ -1,0 +1,61 @@
+body{
+  width:100%;
+  margin: 0 auto;
+  margin-top: 0 auto;
+}
+.main-menu{
+  width: 100%;
+}
+.top-header{
+  width: 75%;
+  float: left;
+  margin-top: 0 auto;
+}
+.background-graph{
+  margin-top: 270px;
+}
+.external-links{
+  width: 25%;
+  float: right;
+  color: #344a53ff;
+}
+.external-links a{
+  text-decoration: none;
+}
+main{
+  width: 1200px;
+  float: left;
+}
+h1{
+  font-size: 30px;
+  font-family: 'CMU Sans Serif', sans-serif;
+  color: #344a53ff;
+
+}
+h2{
+  font-size: 24px;
+  font-family: 'CMU Sans Serif', sans-serif;
+  color: #344a53ff;
+}
+p{
+  font-size: 20px;
+  font-family: 'CMU Sans Serif', sans-serif;
+  color: #344a53ff;
+}
+a{
+  font-size: 20px;
+  font-family: 'CMU Sans Serif', sans-serif;
+  color: #344a53ff;
+}
+.how-to-find-me{
+  line-height: 20pt;
+  margin-left: 60px;
+}
+.research-interest{
+  line-height: 25pt;
+  margin-left: 60px;
+}
+.publications{
+  line-height: 20pt;
+  margin-left: 60px;
+}
