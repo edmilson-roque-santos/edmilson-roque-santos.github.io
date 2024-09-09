@@ -51,7 +51,7 @@ p, a {
   font-size: 20px;
 }
 
-.how-to-find-me, .research-interest, .publications, .selected-publications, .events, .seminars {
+.how-to-find-me, .research-interest, .publications, .selected-publications, .events, .seminars,.cv {
   line-height: 25pt;
   margin-left: 60px;
 }
