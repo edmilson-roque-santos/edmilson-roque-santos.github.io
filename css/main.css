@@ -34,7 +34,7 @@ main {
   float: left;
 }
 
-h1, h2, p, a {
+h1, h2, h3, p, a, ul {
   font-family: 'CMU Sans Serif', sans-serif;
   color: #344a53ff;
 }
@@ -46,6 +46,11 @@ h1 {
 h2 {
   font-size: 24px;
 }
+
+h3 {
+  font-size: 20px;
+}
+
 
 p, a {
   font-size: 20px;
@@ -60,9 +65,12 @@ p, a {
 .navbar {
   width: 100%;
   text-align: center; /* Center the navigation bar */
-  margin: 20px 0; /* Add some spacing around the navbar */
+  margin: 30px 0; /* Add some spacing around the navbar */
   background-color: transparent; /* Keeping it minimal */
   padding: 10px 0; /* Padding for better spacing */
+  display: flex;
+  gap: 20px;
+  justify-content: center;  /* Center the items horizontally */
 }
 
 .navbar a {
