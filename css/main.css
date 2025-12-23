@@ -106,8 +106,19 @@ p, a {
 }
 
 @media (max-width: 768px) {
+ 
+  main {
+    width: 100%;
+    max-width: 100%;
+    float: left;   /* you KEEP the float */
+  }
+  
+  .top-header{
+    width: 75%;
+    float: none;
 
-  .top-header,
+  }
+  
   .external-links {
     width: 25%;
     float: none;
