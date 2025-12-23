@@ -66,7 +66,7 @@ p, a {
 /* Navigation Bar Styling */
 .navbar {
   width: 100%;
-  text-align: center; /* Center the navigation bar */
+  text-align: left; /* Center the navigation bar */
   margin: 30px 0; /* Add some spacing around the navbar */
   background-color: transparent; /* Keeping it minimal */
   padding: 10px 0; /* Padding for better spacing */
@@ -79,7 +79,7 @@ p, a {
   color: #344a53ff; /* Use the same color as other links */
   text-decoration: none; /* Remove underline */
   margin: 0 15px; /* Space between links */
-  font-size: 20px; /* Consistent font size */
+  font-size: 18px; /* Consistent font size */
 }
 
 .navbar a:hover {
@@ -98,7 +98,7 @@ p, a {
   color: #344a53ff; /* Use the same color as other links */
   text-decoration: none; /* Remove underline */
   margin: 0 15px; /* Space between links */
-  font-size: 20px; /* Consistent font size */
+  font-size: 18px; /* Consistent font size */
 }
 
 .vertical-navbar a:hover {
